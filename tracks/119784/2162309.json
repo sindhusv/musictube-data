@@ -1,0 +1,63 @@
+{
+  "id" : "2162309",
+  "artistId" : "119784",
+  "artistName" : "Santhosh Narayanan",
+  "title" : "Soodhu Kavvum",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/sustrw1368307303.jpg",
+  "year" : "2013",
+  "tracks" : [ {
+    "id" : "33363795",
+    "trackNumber" : "1",
+    "title" : "Come Na Come",
+    "youtubeLink" : "zMnyC1lQc-s",
+    "youtubeChannelId" : "UCUlkJiJeqHaO9S7fn_m5how",
+    "youtubeChannelTitle" : "DJ  Anujan Sivalingam",
+    "duration" : "236000",
+    "lock" : true
+  }, {
+    "id" : "33363796",
+    "trackNumber" : "2",
+    "title" : "Mama Douser",
+    "youtubeLink" : "6ChjLz2-H-A",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "201000",
+    "lock" : true
+  }, {
+    "id" : "33363797",
+    "trackNumber" : "3",
+    "title" : "Ellam Kadanthu Pogumada",
+    "youtubeLink" : "DTf52CQz4x0",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "162000",
+    "lock" : true
+  }, {
+    "id" : "33363798",
+    "trackNumber" : "4",
+    "title" : "Sudden Light",
+    "youtubeLink" : "smn6PZkbkkg",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "154000",
+    "lock" : true
+  }, {
+    "id" : "33363799",
+    "trackNumber" : "5",
+    "title" : "Sa Ga",
+    "youtubeLink" : "KBe0DDruquQ",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "104000",
+    "lock" : true
+  }, {
+    "id" : "33363800",
+    "trackNumber" : "6",
+    "title" : "Kasu Panam",
+    "youtubeLink" : "-7gPjl6pi8Q",
+    "youtubeChannelId" : "UCrtEHcDK82DIhdI3u_nttng",
+    "youtubeChannelTitle" : "sanchayan karunakaran",
+    "duration" : "147000",
+    "lock" : true
+  } ]
+}
