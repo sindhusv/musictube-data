@@ -1,0 +1,63 @@
+{
+  "id" : "2209653",
+  "artistId" : "129761",
+  "artistName" : "Rajesh Murugesan",
+  "title" : "Neram",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/swssvw1401563163.jpg",
+  "year" : "2013",
+  "tracks" : [ {
+    "id" : "33943884",
+    "trackNumber" : "1",
+    "title" : "Evan Avan",
+    "youtubeLink" : "_ZqH1jpI20Y",
+    "youtubeChannelId" : "UC9QH4NW4SH0lzpDof1evULQ",
+    "youtubeChannelTitle" : "Siju C Antony",
+    "duration" : "0",
+    "lock" : true
+  }, {
+    "id" : "33943885",
+    "trackNumber" : "2",
+    "title" : "Kaatru Veesum",
+    "youtubeLink" : "FRx6rQ606oE",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "0",
+    "lock" : true
+  }, {
+    "id" : "33943886",
+    "trackNumber" : "3",
+    "title" : "Kadhal Ennulle",
+    "youtubeLink" : "bFew8mgQJ9o",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "0",
+    "lock" : true
+  }, {
+    "id" : "33943887",
+    "trackNumber" : "4",
+    "title" : "Pistah",
+    "youtubeLink" : "ZtuVt3nYQhM",
+    "youtubeChannelId" : "UCysZuskPvM_ejqIl-ziKJRA",
+    "youtubeChannelTitle" : "sidharth murali",
+    "duration" : "0",
+    "lock" : true
+  }, {
+    "id" : "33943888",
+    "trackNumber" : "5",
+    "title" : "Phone Booth",
+    "youtubeLink" : "Ad-6Jdnz5yk",
+    "youtubeChannelId" : "UCa4tbl-T9eFu7gqxFu_kVXA",
+    "youtubeChannelTitle" : "NutsElman91",
+    "duration" : "0",
+    "lock" : true
+  }, {
+    "id" : "33943889",
+    "trackNumber" : "6",
+    "title" : "Neram Theme",
+    "youtubeLink" : "SuuypjzzqRw",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "0",
+    "lock" : true
+  } ]
+}
