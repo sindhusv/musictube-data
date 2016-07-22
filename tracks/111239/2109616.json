@@ -1,0 +1,27 @@
+{
+  "id" : "2109616",
+  "artistId" : "111239",
+  "artistName" : "Coldplay",
+  "title" : "Mylo Xyloto",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/wspvyw1367233980.jpg",
+  "year" : "2011",
+  "tracks" : [ {
+    "id" : "32724191",
+    "trackNumber" : "1",
+    "title" : "Mylo Xyloto",
+    "youtubeLink" : "DOWlNEqMITY",
+    "youtubeChannelId" : "UCy8E7RoEhleohJ-MdJx796g",
+    "youtubeChannelTitle" : "C0ldlake",
+    "duration" : "43053",
+    "lock" : true
+  }, {
+    "id" : "32724204",
+    "trackNumber" : "14",
+    "title" : "Up With the Birds",
+    "youtubeLink" : "ff8OPbOwXjg",
+    "youtubeChannelId" : "UCAwW_UnID9_KVhmi1mMjFyg",
+    "youtubeChannelTitle" : "Fredd Sánchez",
+    "duration" : "227826",
+    "lock" : true
+  } ]
+}
