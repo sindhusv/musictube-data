@@ -1,0 +1,45 @@
+{
+  "id" : "2181765",
+  "artistId" : "118522",
+  "artistName" : "G.V. Prakash Kumar",
+  "title" : "Raja Rani",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/srvvrp1381050679.jpg",
+  "year" : "2013",
+  "tracks" : [ {
+    "id" : "33602501",
+    "trackNumber" : "2",
+    "title" : "Angnyaade",
+    "youtubeLink" : "D2iB2ZKd34M",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "217000",
+    "lock" : true
+  }, {
+    "id" : "33602502",
+    "trackNumber" : "3",
+    "title" : "Chillena",
+    "youtubeLink" : "cevQsaQSzCM",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "312000",
+    "lock" : true
+  }, {
+    "id" : "33602503",
+    "trackNumber" : "4",
+    "title" : "Unnale",
+    "youtubeLink" : "Y8_-cAmv2yA",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "101000",
+    "lock" : true
+  }, {
+    "id" : "33602506",
+    "trackNumber" : "7",
+    "title" : "A Love For Life",
+    "youtubeLink" : "oSW8l4nRpQw",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "197000",
+    "lock" : true
+  } ]
+}
