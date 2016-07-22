@@ -1,0 +1,18 @@
+{
+  "id" : "2124634",
+  "artistId" : "113439",
+  "artistName" : "Maroon",
+  "title" : "When Worlds Collide",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/when-worlds-collide-5148aaa28ec01.jpg",
+  "year" : "2006",
+  "tracks" : [ {
+    "id" : "32904000",
+    "trackNumber" : "1",
+    "title" : "24hourhate",
+    "youtubeLink" : "sA7bDD9TUvs",
+    "youtubeChannelId" : "UCesRkPpoS6QZXwtsDq_aS6A",
+    "youtubeChannelTitle" : "thomas müller",
+    "duration" : "225146",
+    "lock" : true
+  } ]
+}
