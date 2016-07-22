@@ -1,0 +1,63 @@
+{
+  "id" : "2261441",
+  "artistId" : "119784",
+  "artistName" : "Santhosh Narayanan",
+  "title" : "Madras",
+  "albumArt" : "http://media.theaudiodb.com/images/media/album/thumb/rprrpp1457462138.jpg",
+  "year" : "2014",
+  "tracks" : [ {
+    "id" : "34570805",
+    "trackNumber" : "1",
+    "title" : "Suvar (theme music)",
+    "youtubeLink" : "2tmH5NUSAf8",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "78000",
+    "lock" : true
+  }, {
+    "id" : "34570806",
+    "trackNumber" : "2",
+    "title" : "Kaali Love (theme music)",
+    "youtubeLink" : "h_YmgM4jJoI",
+    "youtubeChannelId" : "UC2l1BV6FN5H_a-YUhPjGrRg",
+    "youtubeChannelTitle" : "S.Prithiv Raj",
+    "duration" : "112000",
+    "lock" : true
+  }, {
+    "id" : "34570807",
+    "trackNumber" : "3",
+    "title" : "Kakidha Kappal",
+    "youtubeLink" : "MdrQ54UuTaI",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "213000",
+    "lock" : true
+  }, {
+    "id" : "34570808",
+    "trackNumber" : "4",
+    "title" : "Aagayam Theepidicha",
+    "youtubeLink" : "xtH-JQooLIY",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "230000",
+    "lock" : true
+  }, {
+    "id" : "34570809",
+    "trackNumber" : "5",
+    "title" : "Naan Nee",
+    "youtubeLink" : "Z4c1m25lP8M",
+    "youtubeChannelId" : "UCAJGXE6Hzzz2dOkXmfBd2vA",
+    "youtubeChannelTitle" : "Awesome Supercools",
+    "duration" : "253000",
+    "lock" : true
+  }, {
+    "id" : "34570811",
+    "trackNumber" : "7",
+    "title" : "Irandhidava",
+    "youtubeLink" : "8pb99w8Ldkk",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "297000",
+    "lock" : true
+  } ]
+}
