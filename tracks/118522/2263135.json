@@ -1,0 +1,72 @@
+{
+  "id" : "2263135",
+  "artistId" : "118522",
+  "artistName" : "G.V. Prakash Kumar",
+  "title" : "Theri",
+  "albumArt" : "http://media.theaudiodb.com/images/media/album/thumb/tqvrtq1461646043.jpg",
+  "year" : "2016",
+  "tracks" : [ {
+    "id" : "34587718",
+    "trackNumber" : "1",
+    "title" : "Jithu Jilladi",
+    "youtubeLink" : "9lkT6HnwCzQ",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "289000",
+    "lock" : true
+  }, {
+    "id" : "34587719",
+    "trackNumber" : "2",
+    "title" : "Chellaakutty",
+    "youtubeLink" : "z7kBJn8Jik0",
+    "youtubeChannelId" : "UC8lijoeiso6quVwEvIn6oFg",
+    "youtubeChannelTitle" : "Tamil Brothers",
+    "duration" : "290000",
+    "lock" : true
+  }, {
+    "id" : "34587720",
+    "trackNumber" : "3",
+    "title" : "Yen Jeevan",
+    "youtubeLink" : "H3GhtM8V-dU",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "320000",
+    "lock" : true
+  }, {
+    "id" : "34587721",
+    "trackNumber" : "4",
+    "title" : "Eena Meena Teeka",
+    "youtubeLink" : "smlx68w2UnM",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "247000",
+    "lock" : true
+  }, {
+    "id" : "34587722",
+    "trackNumber" : "5",
+    "title" : "Rangu",
+    "youtubeLink" : "-c2l8IXfAOk",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "233000",
+    "lock" : true
+  }, {
+    "id" : "34587723",
+    "trackNumber" : "6",
+    "title" : "Theri Rap Theme",
+    "youtubeLink" : "j-rX3j6vL1E",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "120000",
+    "lock" : true
+  }, {
+    "id" : "34587725",
+    "trackNumber" : "8",
+    "title" : "Thaimai",
+    "youtubeLink" : "DSsDYPFCp6M",
+    "youtubeChannelId" : "UCLbdVvreihwZRL6kwuEUYsA",
+    "youtubeChannelTitle" : "Think Music India",
+    "duration" : "166000",
+    "lock" : true
+  } ]
+}
