@@ -1,0 +1,27 @@
+{
+  "id" : "2143699",
+  "artistId" : "111239",
+  "artistName" : "Coldplay",
+  "title" : "LeftRightLeftRightLeft",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/tvquxw1367234023.jpg",
+  "year" : "2009",
+  "tracks" : [ {
+    "id" : "33138735",
+    "trackNumber" : "1",
+    "title" : "Glass of Water",
+    "youtubeLink" : "VKBLmr66II4",
+    "youtubeChannelId" : "UCb3Keue3H084BbwrNZ04DCw",
+    "youtubeChannelTitle" : "MegaByteSeven",
+    "duration" : "283000",
+    "lock" : true
+  }, {
+    "id" : "33138736",
+    "trackNumber" : "2",
+    "title" : "42",
+    "youtubeLink" : "CCRCFNayQys",
+    "youtubeChannelId" : "UCO4bAqopGTlAacRea6IzNNQ",
+    "youtubeChannelTitle" : "smorgasbord",
+    "duration" : "292000",
+    "lock" : true
+  } ]
+}
