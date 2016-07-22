@@ -5,4 +5,66 @@
   "title" : "Neram",
   "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/swssvw1401563163.jpg",
   "year" : "2013"
-} ]
+},
+{
+  "id" : "2143699",
+  "artistId" : "111239",
+  "artistName" : "Coldplay",
+  "title" : "LeftRightLeftRightLeft",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/tvquxw1367234023.jpg",
+  "year" : "2009"
+},
+{
+  "id" : "2175617",
+  "artistId" : "112481",
+  "artistName" : "A. R. Rahman",
+  "title" : "Roja",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/roja-53030f2281041.jpg",
+  "year" : "1993"
+},
+{
+  "id" : "2124634",
+  "artistId" : "113439",
+  "artistName" : "Maroon",
+  "title" : "When Worlds Collide",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/when-worlds-collide-5148aaa28ec01.jpg",
+  "year" : "2006"
+},
+{
+  "id" : "2162309",
+  "artistId" : "119784",
+  "artistName" : "Santhosh Narayanan",
+  "title" : "Soodhu Kavvum",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/sustrw1368307303.jpg",
+  "year" : "2013"
+}, {
+  "id" : "2261441",
+  "artistId" : "119784",
+  "artistName" : "Santhosh Narayanan",
+  "title" : "Madras",
+  "albumArt" : "http://media.theaudiodb.com/images/media/album/thumb/rprrpp1457462138.jpg",
+  "year" : "2014"
+} ,
+{
+  "id" : "2219717",
+  "artistId" : "129757",
+  "artistName" : "Anirudh Ravichander",
+  "title" : "Kaththi",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/qqywrp1411708008.jpg",
+  "year" : "2014"
+}, {
+  "id" : "2261436",
+  "artistId" : "129757",
+  "artistName" : "Anirudh Ravichander",
+  "title" : "Naanum Rowdy Dhaan",
+  "albumArt" : "http://media.theaudiodb.com/images/media/album/thumb/xvtuqq1457460899.jpg",
+  "year" : "2015"
+}, {
+  "id" : "2209640",
+  "artistId" : "129757",
+  "artistName" : "Anirudh Ravichander",
+  "title" : "Ethir Neechal",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/ustxys1401553328.jpg",
+  "year" : "2012"
+}
+]
