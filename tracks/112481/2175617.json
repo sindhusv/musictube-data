@@ -1,0 +1,99 @@
+{
+  "id" : "2175617",
+  "artistId" : "112481",
+  "artistName" : "A. R. Rahman",
+  "title" : "Roja",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/roja-53030f2281041.jpg",
+  "year" : "1993",
+  "tracks" : [ {
+    "id" : "33527757",
+    "trackNumber" : "1",
+    "title" : "Chhoti Si Aasha",
+    "youtubeLink" : "x6dyY8uwldQ",
+    "youtubeChannelId" : "UCP6uH_XlsxrXwZQ4DlqbqPg",
+    "youtubeChannelTitle" : "Filmi Gaane",
+    "duration" : "297000",
+    "lock" : true
+  }, {
+    "id" : "33527758",
+    "trackNumber" : "2",
+    "title" : "Rukmani Rukmani",
+    "youtubeLink" : "j4e_DmnoODk",
+    "youtubeChannelId" : "UCP6uH_XlsxrXwZQ4DlqbqPg",
+    "youtubeChannelTitle" : "Filmi Gaane",
+    "duration" : "364306",
+    "lock" : true
+  }, {
+    "id" : "33527759",
+    "trackNumber" : "3",
+    "title" : "Roja",
+    "youtubeLink" : "AC4lk-xQvFY",
+    "youtubeChannelId" : "UCjwhjLiH7_E6VgOQNEWzRPw",
+    "youtubeChannelTitle" : "E Songs",
+    "duration" : "305800",
+    "lock" : true
+  }, {
+    "id" : "33527760",
+    "trackNumber" : "4",
+    "title" : "Yeh Haseen Vadiyan Yeh Khula Aasaman",
+    "youtubeLink" : "Bp1pGcQtJ3M",
+    "youtubeChannelId" : "UC1_x2M-mGbmFFme4oMNxaDw",
+    "youtubeChannelTitle" : "Ali Qureshi",
+    "duration" : "319666",
+    "lock" : true
+  }, {
+    "id" : "33527761",
+    "trackNumber" : "5",
+    "title" : "Roja",
+    "youtubeLink" : "AC4lk-xQvFY",
+    "youtubeChannelId" : "UCjwhjLiH7_E6VgOQNEWzRPw",
+    "youtubeChannelTitle" : "E Songs",
+    "duration" : "304826",
+    "lock" : true
+  }, {
+    "id" : "33527762",
+    "trackNumber" : "6",
+    "title" : "Chhoti Si Aasha (short)",
+    "youtubeLink" : "GwnzHneNbo4",
+    "youtubeChannelId" : "UCZBj6skHUOqy12j3JbOyjXQ",
+    "youtubeChannelTitle" : "jyotijwala",
+    "duration" : "66573",
+    "lock" : true
+  }, {
+    "id" : "33527763",
+    "trackNumber" : "7",
+    "title" : "Bharat Humko Jaan Se Pyara Hai",
+    "youtubeLink" : "LXBlgP4zW7o",
+    "youtubeChannelId" : "UCXE2k4Koct9SXB3YnUFLG_g",
+    "youtubeChannelTitle" : "360DarkNight",
+    "duration" : "191600",
+    "lock" : true
+  }, {
+    "id" : "33527764",
+    "trackNumber" : "8",
+    "title" : "Chhoti Si Aasha (instrumental)",
+    "youtubeLink" : "yTufJV-RT64",
+    "youtubeChannelId" : "UCdAhN3HY5rHlMtWRpe0-lHw",
+    "youtubeChannelTitle" : "Hindi Bengali Karaoke",
+    "duration" : "298666",
+    "lock" : true
+  }, {
+    "id" : "33527765",
+    "trackNumber" : "9",
+    "title" : "Rukmani Rukmani (instrumental)",
+    "youtubeLink" : "QIyQn_PlR38",
+    "youtubeChannelId" : "UCP6uH_XlsxrXwZQ4DlqbqPg",
+    "youtubeChannelTitle" : "Filmi Gaane",
+    "duration" : "346866",
+    "lock" : true
+  }, {
+    "id" : "33527766",
+    "trackNumber" : "10",
+    "title" : "Roja (instrumental)",
+    "youtubeLink" : "2DNIucuW-lw",
+    "youtubeChannelId" : "UC_nNjaOMyJwWVysEo8HZq7g",
+    "youtubeChannelTitle" : "Ravi Param",
+    "duration" : "305093",
+    "lock" : true
+  } ]
+}
