@@ -82,4 +82,11 @@
   "title" : "3",
   "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/urypqv1401553211.jpg",
   "year" : "2011"
+}, {
+  "id" : "2261431",
+  "artistId" : "129757",
+  "artistName" : "Anirudh Ravichander",
+  "title" : "Maari",
+  "albumArt" : "http://media.theaudiodb.com/images/media/album/thumb/vrpyyy1457460756.jpg",
+  "year" : "2015"
 } ]
