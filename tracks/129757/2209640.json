@@ -1,0 +1,63 @@
+{
+  "id" : "2209640",
+  "artistId" : "129757",
+  "artistName" : "Anirudh Ravichander",
+  "title" : "Ethir Neechal",
+  "albumArt" : "http://www.theaudiodb.com/images/media/album/thumb/ustxys1401553328.jpg",
+  "year" : "2012",
+  "tracks" : [ {
+    "id" : "33943771",
+    "trackNumber" : "1",
+    "title" : "Nijamellam Maranthupochu",
+    "youtubeLink" : "iv4JGTydnDs",
+    "youtubeChannelId" : "UCXJV4U2A54XZx7eULVK49mg",
+    "youtubeChannelTitle" : "Bertille Rayer",
+    "duration" : "229000",
+    "lock" : true
+  }, {
+    "id" : "33943772",
+    "trackNumber" : "2",
+    "title" : "Boomi Enna Suthudhe",
+    "youtubeLink" : "xyO0EDk8Nn4",
+    "youtubeChannelId" : "UCX-qdypRE3UNSJ7w8Aw2U9Q",
+    "youtubeChannelTitle" : "siva ranjani",
+    "duration" : "263000",
+    "lock" : true
+  }, {
+    "id" : "33943773",
+    "trackNumber" : "3",
+    "title" : "Ethir Neechal",
+    "youtubeLink" : "jp1GerDs8ZI",
+    "youtubeChannelId" : "UC_4gxr-V96_sSIQndcFClKw",
+    "youtubeChannelTitle" : "ShubhiAroraOfficial",
+    "duration" : "271000",
+    "lock" : true
+  }, {
+    "id" : "33943774",
+    "trackNumber" : "4",
+    "title" : "Velicha Poove",
+    "youtubeLink" : "ik1d8UKOvyE",
+    "youtubeChannelId" : "UC0Fddn2sxihIUhuxEoJQ0KQ",
+    "youtubeChannelTitle" : "Vignan Kulasothy",
+    "duration" : "313000",
+    "lock" : true
+  }, {
+    "id" : "33943775",
+    "trackNumber" : "5",
+    "title" : "Un Paarvayil",
+    "youtubeLink" : "QhyVCxN7C0w",
+    "youtubeChannelId" : "UCmzEhkVancrRKl1ZTZENpog",
+    "youtubeChannelTitle" : "Aayiram Nilavu Mediaworks",
+    "duration" : "102000",
+    "lock" : true
+  }, {
+    "id" : "33943776",
+    "trackNumber" : "6",
+    "title" : "Local Boys",
+    "youtubeLink" : "iVSw90FG0_U",
+    "youtubeChannelId" : "UCM-GbnDO1U3OqoNPKqoKhsg",
+    "youtubeChannelTitle" : "afroze khan",
+    "duration" : "275000",
+    "lock" : true
+  } ]
+}
